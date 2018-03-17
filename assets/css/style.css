@@ -1,0 +1,16 @@
+.header {
+    position:  fixed;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: darkblue;
+    clear: both;
+}
+footer {
+    position:   fixed;
+    background-color: brown;
+    clear: both;
+}
+.pic {
+    height: 400px;
+    width: 200px;
+}
